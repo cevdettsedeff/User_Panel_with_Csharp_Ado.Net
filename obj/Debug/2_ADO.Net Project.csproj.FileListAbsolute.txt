@@ -1,0 +1,22 @@
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.exe.config
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\_2_ADO.Net_Project.Form1.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\_2_ADO.Net_Project.Properties.Resources.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.GenerateResource.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Staj Projeleri 2\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.exe.config
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\bin\Debug\2_ADO.Net Project.pdb
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.AssemblyReference.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\_2_ADO.Net_Project.Form1.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\_2_ADO.Net_Project.Properties.Resources.resources
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.GenerateResource.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.csproj.CoreCompileInputs.cache
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.exe
+C:\Users\Cevsev\Desktop\C# Projelerim\Examples\2_ADO.Net Project\obj\Debug\2_ADO.Net Project.pdb
